@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brandon02244
-- 👀 I’m interested in Sybersecurity 
-- 🌱 I’m currently learning the basics of sybersecurity
+- 👀 I’m interested in cybersecurity 
+- 🌱 I’m currently learning the basics of cybersecurity
 - 💞️ I’m looking to collaborate on any tools or programs to help me progress in cybersecurity
 - 📫 How to reach me @carlson0224@gmail.com
 - 😄 Pronouns: He/Him
